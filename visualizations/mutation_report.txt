@@ -1,0 +1,28 @@
+COVID-19 Mutation Analysis Report
+===============================
+
+Total mutations detected: 4054
+Mutation types: {'INS': 1795, 'DEL': 1521, 'SNP': 738}
+
+Mutations by country:
+  sample1: 644 mutations
+  sample2: 780 mutations
+  sample3: 1309 mutations
+  sample4: 734 mutations
+  sample5: 587 mutations
+
+SNP analysis:
+  Total SNPs: 738
+  Top 5 SNP positions:
+    Position 28802: 4 occurrences
+    Position 28803: 4 occurrences
+    Position 28804: 4 occurrences
+    Position 28805: 4 occurrences
+    Position 7204: 4 occurrences
+
+Shared mutations analysis:
+  8 unique mutation patterns shared across multiple countries
+  Top 3 widely shared mutation patterns:
+    Shared across 4 countries (sample1, sample2, sample4, sample5): 82 mutations
+    Shared across 3 countries (sample1, sample2, sample5): 1 mutations
+    Shared across 3 countries (sample1, sample4, sample5): 1 mutations
